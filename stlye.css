@@ -4,6 +4,8 @@ body {
   height: 100%;
 }
 .button {
+  width: 100px;
+  height: 80px;
   padding: 20px;
   margin: 0 3px;
   border-radius: 10px;
@@ -14,7 +16,7 @@ body {
   margin: 8px 0;
 }
 .row input {
-  font-size: 23px;
+  font-size: 40px;
   margin: 0;
   padding: 10px 0;
   border: 2px solid black;
